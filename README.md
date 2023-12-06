@@ -5,8 +5,10 @@ Test para vacante de QA Java Serenity
 
 # SE REALIZA UN TEST E2E CON PATRON SCREENPLAY
 
-    Se debe tomar en cuenta que se está aplicando el diseño screePlay, talvez varie el nombre de las carpetas como GLUE, pero esto es solo un tema de escritura.
-    También no tiene una estructura muy grande ya que el esquema debe manejar simplemente una página web con sus tareas y sus interfaces.
+    Se debe tomar en cuenta que se está aplicando el diseño screePlay, talvez varie el nombre de las carpetas como GLUE,
+    pero esto es solo un tema de escritura.
+    También no tiene una estructura muy grande ya que el esquema debe manejar simplemente una página web con sus tareas
+    y sus interfaces.
 Pero si se esta aplicando PATRON SCREENPLAY 
 
 
